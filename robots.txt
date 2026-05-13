@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://belapyc.github.io/sitemap.xml
