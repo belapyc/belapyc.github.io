@@ -8,7 +8,7 @@ category: past
 related_publications: false
 ---
 
-Traditional methods for predicting ovarian follicle growth rely on the clinically infeasible assumption of tracking individual follicles between ultrasound scans. We instead built a **decoder-only, GPT-style transformer** that autoregressively forecasts the *full follicle size distribution* from sequential scan data — the first application of a transformer architecture to distribution-level follicle prediction.
+Traditional methods for predicting ovarian follicle growth rely on the clinically infeasible assumption of tracking individual follicles between ultrasound scans. We instead built a **decoder-only, GPT-style transformer** that autoregressively forecasts the _full follicle size distribution_ from sequential scan data — the first application of a transformer architecture to distribution-level follicle prediction.
 
 The model was trained on **28,125 IVF/ICSI cycles (2005–2023) from 11 clinics in the UK and Poland**, with a composite loss combining Earth Mover's Distance, Chi-Square, and Quadratic Chi-Square. Hyperparameters were optimised with Optuna.
 

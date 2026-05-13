@@ -14,4 +14,4 @@ On a 48-cell oracle benchmark covering four cancers, three model complexities (4
 
 The work also delivers a cross-method benchmark showing that **identifiability is a model–data property, consistent across inference methods on the same oracle data — not a method artefact**, and that identifiability degrades systematically with model complexity.
 
-Paper in preparation; target: *Medical Decision Making*.
+Paper in preparation; target: _Medical Decision Making_.

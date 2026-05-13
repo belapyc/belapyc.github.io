@@ -31,7 +31,7 @@ I'm a Postdoctoral Researcher and Principal Investigator at the [Centre for Canc
 
 My research focuses on **transformer architectures** for medical AI and **amortised Bayesian inference** for cancer microsimulation models. Current and recent projects include sequence-aware vision transformers for risk-stratified screening, the Transformer Posterior Estimator (TPE) for cancer model calibration, and decoder-only GPT-style transformers for follicle distribution prediction during IVF.
 
-I completed my **PhD in Computer Science** at the University of St Andrews (awarded December 2025) under the supervision of Prof. Tom Kelsey, with a thesis titled *Bridging the Chasm: Improved Healthcare Using Both Established and Novel Analytical Frameworks*. Before returning to academia I spent three years in industry — as a Software Engineer and then ML Engineer at [ING Group](https://www.ing.com/) in Amsterdam, and as Technical Lead at a high-growth startup.
+I completed my **PhD in Computer Science** at the University of St Andrews (awarded December 2025) under the supervision of Prof. Tom Kelsey, with a thesis titled _Bridging the Chasm: Improved Healthcare Using Both Established and Novel Analytical Frameworks_. Before returning to academia I spent three years in industry — as a Software Engineer and then ML Engineer at [ING Group](https://www.ing.com/) in Amsterdam, and as Technical Lead at a high-growth startup.
 
 I'm broadly interested in foundation models, generative AI, and AI for science — particularly applications where careful uncertainty quantification matters.
 

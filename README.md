@@ -8,18 +8,18 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 
 ## Editing
 
-| What to change             | Where                                              |
-| -------------------------- | -------------------------------------------------- |
-| Bio on the homepage        | `_pages/about.md`                                  |
-| Site title / URL / footer  | `_config.yml`                                      |
-| Social links (email, etc.) | `_data/socials.yml`                                |
-| Publications               | `_bibliography/papers.bib`                         |
-| CV (rendered page)         | `_data/cv.yml`                                     |
-| CV (PDF download)          | `assets/pdf/cv.pdf`, `assets/pdf/cv_industry.pdf`  |
-| Profile picture            | `assets/img/prof_pic.png`                          |
-| News items (homepage feed) | `_news/YYYY-MM-DD-slug.md`                         |
-| Blog posts                 | `_posts/YYYY-MM-DD-slug.md`                        |
-| Project pages              | `_projects/*.md`                                   |
+| What to change             | Where                                             |
+| -------------------------- | ------------------------------------------------- |
+| Bio on the homepage        | `_pages/about.md`                                 |
+| Site title / URL / footer  | `_config.yml`                                     |
+| Social links (email, etc.) | `_data/socials.yml`                               |
+| Publications               | `_bibliography/papers.bib`                        |
+| CV (rendered page)         | `_data/cv.yml`                                    |
+| CV (PDF download)          | `assets/pdf/cv.pdf`, `assets/pdf/cv_industry.pdf` |
+| Profile picture            | `assets/img/prof_pic.png`                         |
+| News items (homepage feed) | `_news/YYYY-MM-DD-slug.md`                        |
+| Blog posts                 | `_posts/YYYY-MM-DD-slug.md`                       |
+| Project pages              | `_projects/*.md`                                  |
 
 ## Local preview
 
