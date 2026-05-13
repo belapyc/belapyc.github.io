@@ -1,0 +1,107 @@
+cv:
+  name: Artsiom Hramyka
+  label: ML Researcher · CRUK Pathway Award PI
+  email: ah2427@cam.ac.uk
+  location: Cambridge, United Kingdom
+  image: prof_pic.jpg
+  summary: >
+    Postdoctoral researcher and Principal Investigator at the University of Cambridge.
+    PhD in Computer Science (St Andrews, 2025). I build transformer-based deep learning
+    systems for medical imaging, cancer early detection, and Bayesian inference.
+
+sections:
+  - name: Education
+    type: time_table
+    contents:
+      - title: PhD, Computer Science
+        institution: University of St Andrews
+        year: 2021 -- 2025
+        description:
+          - "Thesis: <em>Bridging the Chasm: Improved Healthcare Using Both Established and Novel Analytical Frameworks</em>. Supervisor: Prof. Tom Kelsey."
+          - "Viva passed Dec 2025; degree awarded. Graduation ceremony July 2026."
+      - title: MSc, Advanced Computer Science
+        institution: University of St Andrews
+        year: 2018 -- 2019
+      - title: BSc, Computer Science & Mathematics
+        institution: University of St Andrews
+        year: 2014 -- 2018
+
+  - name: Appointments
+    type: time_table
+    contents:
+      - title: Principal Investigator, CRUK ACED Pathway Award
+        institution: University of Cambridge
+        year: 2026 -- Present
+        description:
+          - "Two-year £190k fellowship developing AI approaches for longitudinal-mammography-based 5-year breast cancer risk prediction."
+          - "Co-mentors: Prof. Nora Pashayan, Prof. Sue Astley. Clinical collaborator: Prof. Fiona Gilbert's group, Department of Radiology."
+      - title: Research Associate, Department of Public Health and Primary Care
+        institution: University of Cambridge (Postdoctoral Affiliate of Trinity College)
+        year: 2024 -- Present
+        description:
+          - "Simulation modelling for cancer early detection within the CRUK International Alliance for Cancer Early Detection (ACED), including the ABIDE Feasibility Study."
+
+  - name: Industry Experience
+    type: time_table
+    contents:
+      - title: Technical Lead
+        institution: Faraday Battery
+        year: Jul 2022 -- Mar 2023
+        description:
+          - Led technical direction; built production AWS infrastructure from scratch.
+          - Integrated science team's C/C++ physics code into the production pipeline.
+          - Ran end-to-end hiring for 30+ Software Engineer and Data Scientist roles.
+      - title: ML Engineer
+        institution: ING Group
+        year: May 2020 -- Jun 2021
+        description:
+          - PoC on unstructured-document data extraction unlocking previously inaccessible signal for downstream credit models.
+          - Shipped a credit-monitoring application co-developed with business analysts.
+      - title: Software Engineer
+        institution: ING Group
+        year: Sep 2019 -- May 2020
+        description:
+          - Production Java reporting application processing tens of TB/month of financial-markets data.
+          - Led a Spark PoC; outcomes drove department-wide Spark adoption.
+
+  - name: Selected Awards, Fellowships & Grants
+    type: time_table
+    contents:
+      - year: 2026
+        items:
+          - "<strong>CRUK ACED Pathway Award</strong> — Sole PI, £190,000 / 2 yrs. <em>A Dynamic AI Approach for 5-Year Breast Cancer Risk Prediction by Modelling Convergent Radiological Patterns in Longitudinal Mammography.</em>"
+          - "<strong>HPC Compute Allocation</strong> — ~20,000 A100 GPU-hours, Cambridge CSD3."
+      - year: 2023
+        items:
+          - "Global Health Network Award (Top 3 of 1,600), International Society of Paediatric Oncology, Ottawa."
+      - year: 2021
+        items:
+          - "St Leonard's Postgraduate Scholarship, University of St Andrews."
+
+  - name: Technical Skills
+    type: nested_list
+    contents:
+      - title: Core ML / DL
+        items:
+          - "PyTorch, JAX, HuggingFace Transformers, Optuna, scikit-learn"
+          - "Transformer architectures (encoder/decoder, decoder-only, vision), CNNs, MDNs, VAEs, normalising flows, neural posterior estimation"
+          - "Distributed / multi-GPU training; mixed precision"
+      - title: Languages
+        items:
+          - "Python (expert), C/C++, Java, R, Go, JavaScript, SQL, Bash"
+      - title: Infra / Cloud
+        items:
+          - "AWS, GCP, Docker, SLURM HPC (Cambridge CSD3), vast.ai, Spark, Git, CI/CD; experiment tracking with W&B / MLflow"
+
+  - name: Service
+    type: list
+    contents:
+      - "Peer reviewer — Frontiers in Artificial Intelligence; Journal of Medical Imaging; Journal of Electronic Imaging."
+      - "Study Management Board Member, CRUK ABIDE Feasibility Study (2024 – Present)."
+
+  - name: Invited Talks
+    type: time_table
+    contents:
+      - title: "Deep Learning-Based Follicle Growth Prediction using a Transformer Architecture"
+        institution: Cambridge AI in Medicine Seminar Series, University of Cambridge
+        year: Sept 2025
