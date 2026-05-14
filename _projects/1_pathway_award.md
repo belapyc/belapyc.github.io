@@ -2,7 +2,7 @@
 layout: page
 title: Mammograms ViT — Dynamic AI for Breast Cancer Risk
 description: Sequence-aware vision transformers for 5-year breast cancer risk prediction from longitudinal mammography (CRUK ACED Pathway Award).
-img: assets/img/12.jpg
+img: assets/img/proj_mammo.png
 importance: 1
 related_publications: false
 ---

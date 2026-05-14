@@ -2,7 +2,7 @@
 layout: page
 title: Paediatric Oncology — ML for Hodgkin Lymphoma in Low- and Middle-Income Settings
 description: Machine learning on affordable blood tests to replace expensive imaging in paediatric Hodgkin lymphoma.
-img: assets/img/7.jpg
+img: assets/img/proj_paediatric.jpg
 importance: 4
 related_publications: false
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Cancer Calibration — Transformer Posterior Estimator (TPE)
 description: Amortised Bayesian calibration of cancer microsimulation models using transformers.
-img: assets/img/projects/cancer-tpe.png
+img: assets/img/proj_cancer-tpe.png
 importance: 2
 related_publications: false
 ---
