@@ -77,7 +77,7 @@ ninja.data = [{
               window.location.href = "/projects/2_tpe/";
             },},{id: "projects-ivf-deep-learning-for-follicle-growth-and-trigger-day-decisions",
           title: 'IVF — Deep Learning for Follicle Growth and Trigger-Day Decisions',
-          description: "Transformer and ML methods for assisted reproduction in collaboration with Imperial College London.",
+          description: "Transformer and agent-based ML for assisted reproduction; collaboration with Imperial College London and Prof. Scott Nelson.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_follicle_transformer/";
             },},{id: "projects-paediatric-oncology-ml-for-hodgkin-lymphoma-in-low-and-middle-income-settings",
