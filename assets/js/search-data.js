@@ -65,21 +65,31 @@ ninja.data = [{
           section: "News",},{id: "news-i-ve-officially-started-my-cruk-aced-pathway-award-at-the-university-of-cambridge-stepping-into-my-first-principal-investigator-role-two-years-190k-building-dynamic-ai-for-5-year-breast-cancer-risk-prediction-from-longitudinal-mammography-tada",
           title: 'I’ve officially started my CRUK ACED Pathway Award at the University of Cambridge...',
           description: "",
-          section: "News",},{id: "projects-dynamic-ai-for-breast-cancer-risk-cruk-aced-pathway-award",
-          title: 'Dynamic AI for Breast Cancer Risk (CRUK ACED Pathway Award)',
-          description: "Sequence-aware vision transformers for 5-year breast cancer risk prediction from longitudinal mammography.",
+          section: "News",},{id: "projects-mammograms-vit-dynamic-ai-for-breast-cancer-risk",
+          title: 'Mammograms ViT — Dynamic AI for Breast Cancer Risk',
+          description: "Sequence-aware vision transformers for 5-year breast cancer risk prediction from longitudinal mammography (CRUK ACED Pathway Award).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_pathway_award/";
-            },},{id: "projects-transformer-posterior-estimator-tpe",
-          title: 'Transformer Posterior Estimator (TPE)',
+            },},{id: "projects-cancer-calibration-transformer-posterior-estimator-tpe",
+          title: 'Cancer Calibration — Transformer Posterior Estimator (TPE)',
           description: "Amortised Bayesian calibration of cancer microsimulation models using transformers.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_tpe/";
-            },},{id: "projects-decoder-only-transformer-for-follicle-growth",
-          title: 'Decoder-only Transformer for Follicle Growth',
-          description: "A GPT-style transformer that predicts full follicle size distributions during IVF.",
+            },},{id: "projects-ivf-deep-learning-for-follicle-growth-and-trigger-day-decisions",
+          title: 'IVF — Deep Learning for Follicle Growth and Trigger-Day Decisions',
+          description: "Transformer and ML methods for assisted reproduction in collaboration with Imperial College London.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_follicle_transformer/";
+            },},{id: "projects-paediatric-oncology-ml-for-hodgkin-lymphoma-in-low-and-middle-income-settings",
+          title: 'Paediatric Oncology — ML for Hodgkin Lymphoma in Low- and Middle-Income Settings',
+          description: "Machine learning on affordable blood tests to replace expensive imaging in paediatric Hodgkin lymphoma.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_paediatric_oncology/";
+            },},{id: "projects-bladder-cancer-ml-for-the-identify-risk-calculator",
+          title: 'Bladder Cancer — ML for the IDENTIFY Risk Calculator',
+          description: "Machine learning and external validation for predicting urinary tract cancer in patients with haematuria.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_bladder_cancer/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
