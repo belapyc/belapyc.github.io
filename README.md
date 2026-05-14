@@ -15,7 +15,7 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 | Social links (email, etc.) | `_data/socials.yml`                               |
 | Publications               | `_bibliography/papers.bib`                        |
 | CV (rendered page)         | `_data/cv.yml`                                    |
-| CV (PDF download)          | `assets/pdf/cv.pdf`, `assets/pdf/cv_industry.pdf` |
+| CV (PDF download)          | `assets/pdf/cv.pdf`, `assets/pdf/cv_short.pdf`    |
 | Profile picture            | `assets/img/prof_pic.png`                         |
 | News items (homepage feed) | `_news/YYYY-MM-DD-slug.md`                        |
 | Blog posts                 | `_posts/YYYY-MM-DD-slug.md`                       |

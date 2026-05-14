@@ -35,4 +35,4 @@ I completed my **PhD in Computer Science** at the University of St Andrews (awar
 
 I'm broadly interested in foundation models, generative AI, and AI for science — particularly applications where careful uncertainty quantification matters.
 
-You can find my full academic CV [here](/assets/pdf/cv.pdf) and a shorter industry-focused version [here](/assets/pdf/cv_industry.pdf). The best way to reach me is by email at **ah2427 [at] cam.ac.uk**.
+You can find my full academic CV [here](/assets/pdf/cv.pdf) and a shorter version [here](/assets/pdf/cv_short.pdf). The best way to reach me is by email at **ah2427 [at] cam.ac.uk**.
